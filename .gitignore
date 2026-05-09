@@ -1,5 +1,6 @@
-# Claude Code
-.claude/
+# Claude Code worktrees only — keep .claude/agents/ tracked
+.claude/worktrees/
+.claude/settings.local.json
 
 # OS
 .DS_Store
